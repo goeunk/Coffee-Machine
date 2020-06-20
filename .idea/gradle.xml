@@ -4,11 +4,14 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Cats are robots" />
             <option value="$PROJECT_DIR$/Problems/Hello!" />
             <option value="$PROJECT_DIR$/util" />
           </set>
